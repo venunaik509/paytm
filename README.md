@@ -2,20 +2,20 @@
 
 ## Signup
 
-![Signup Page](/frontend/images/Signup.png)
+![Signup Page](/frontend/images/Signup.jpg)
 
 ## Signin
 
-![Signin Page](</frontend/images/Screenshot%20(116).png>)
+![Signin Page](</frontend/images/signin.jpg>)
 
 ## Dashboard
 
-![Signup Page](</frontend/images/Screenshot%20(114).png>)
+![Signup Page](</frontend/images/dashboard2.jpg>)
 
 ## Send Money
 
-![SendMoney Page](</frontend/images/Screenshot%20(117).png>)
+![SendMoney Page](</frontend/images/sendmoney.jpg>)
 
 ## Users Transactions and balance
 
-![Users](</frontend/images/Screenshot%20(112).png>)
+![Users](</frontend/images/users.jpg>)
