@@ -2,7 +2,7 @@
 
 ## Signup
 
-![Signup Page](/frontend/images/Signup.jpg)
+![Signup Page](/frontend/images/signup.jpg)
 
 ## Signin
 
@@ -16,6 +16,10 @@
 
 ![SendMoney Page](</frontend/images/sendmoney.jpg>)
 
-## Users Transactions and balance
+## Users Details
 
 ![Users](</frontend/images/users.jpg>)
+
+## Transaction details
+![Transaction](</frontend/images/accounts.jpg>)
+
